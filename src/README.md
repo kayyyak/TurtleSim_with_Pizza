@@ -31,8 +31,8 @@ ros2 launch controller multiple_turtle.launch.py
 ```
 
 # Conclusion
-![image](https://github.com/kayyyak/FRA501_exam1_6414_6462/assets/61357514/3f40817d-e90f-479b-8ba6-c596f6be5616)
-![image](https://github.com/kayyyak/FRA501_exam1_6414_6462/assets/61357514/0586a077-d3d3-4bf8-a4e8-6c027099015d)
+![image]((https://github.com/kayyyak/TurtleSim_with_Pizza/assets/61357514/e342570c-2a3d-4394-8d0f-9094a7d386ea))
+
 This system architecture outlines the operations of 'turtlesim_plus' as follows:
 
 1. **Turtle Spawning:**
