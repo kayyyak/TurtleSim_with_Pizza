@@ -1,0 +1,4 @@
+scheduller:
+  ros__parameters:
+    storage_size: 80
+    turtle_role: 'eater'

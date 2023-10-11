@@ -1,0 +1,15 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from controller_interfaces/srv/Notify.srv
+// generated code does not contain a copyright notice
+
+
+module controller_interfaces {
+  module srv {
+    struct Notify_Request {
+      boolean status;
+    };
+    struct Notify_Response {
+      boolean result;
+    };
+  };
+};
