@@ -1,0 +1,55 @@
+[0.602s] Invoking command in '/home/kaymarrr/FourTurtleSim_ws/build/controller': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/kaymarrr/FourTurtleSim_ws/build/controller -- -j16 -l16
+[0.651s] [35m[1mConsolidate compiler generated dependencies of target cpp_node_test[0m
+[0.662s] [100%] Built target cpp_node_test
+[0.666s] [100%] Built target ament_cmake_python_copy_controller
+[0.973s] running egg_info
+[0.973s] writing controller.egg-info/PKG-INFO
+[0.973s] writing dependency_links to controller.egg-info/dependency_links.txt
+[0.973s] writing top-level names to controller.egg-info/top_level.txt
+[0.976s] reading manifest file 'controller.egg-info/SOURCES.txt'
+[0.976s] writing manifest file 'controller.egg-info/SOURCES.txt'
+[0.998s] [100%] Built target ament_cmake_python_build_controller_egg
+[1.006s] Invoked command in '/home/kaymarrr/FourTurtleSim_ws/build/controller' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/kaymarrr/FourTurtleSim_ws/build/controller -- -j16 -l16
+[1.031s] Invoking command in '/home/kaymarrr/FourTurtleSim_ws/build/controller': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/kaymarrr/FourTurtleSim_ws/build/controller
+[1.038s] -- Install configuration: ""
+[1.038s] -- Up-to-date: /home/kaymarrr/FourTurtleSim_ws/install/controller/share/controller/environment/pythonpath.sh
+[1.038s] -- Up-to-date: /home/kaymarrr/FourTurtleSim_ws/install/controller/share/controller/environment/pythonpath.dsv
+[1.038s] -- Up-to-date: /home/kaymarrr/FourTurtleSim_ws/install/controller/local/lib/python3.10/dist-packages/controller-0.0.0-py3.10.egg-info
+[1.038s] -- Installing: /home/kaymarrr/FourTurtleSim_ws/install/controller/local/lib/python3.10/dist-packages/controller-0.0.0-py3.10.egg-info/top_level.txt
+[1.038s] -- Installing: /home/kaymarrr/FourTurtleSim_ws/install/controller/local/lib/python3.10/dist-packages/controller-0.0.0-py3.10.egg-info/PKG-INFO
+[1.038s] -- Installing: /home/kaymarrr/FourTurtleSim_ws/install/controller/local/lib/python3.10/dist-packages/controller-0.0.0-py3.10.egg-info/dependency_links.txt
+[1.039s] -- Installing: /home/kaymarrr/FourTurtleSim_ws/install/controller/local/lib/python3.10/dist-packages/controller-0.0.0-py3.10.egg-info/SOURCES.txt
+[1.040s] -- Up-to-date: /home/kaymarrr/FourTurtleSim_ws/install/controller/local/lib/python3.10/dist-packages/controller
+[1.040s] -- Up-to-date: /home/kaymarrr/FourTurtleSim_ws/install/controller/local/lib/python3.10/dist-packages/controller/__init__.py
+[1.041s] -- Up-to-date: /home/kaymarrr/FourTurtleSim_ws/install/controller/local/lib/python3.10/dist-packages/controller/dummy_module.py
+[1.074s] Listing '/home/kaymarrr/FourTurtleSim_ws/install/controller/local/lib/python3.10/dist-packages/controller'...
+[1.079s] -- Up-to-date: /home/kaymarrr/FourTurtleSim_ws/install/controller/lib/controller/controller.py
+[1.079s] -- Up-to-date: /home/kaymarrr/FourTurtleSim_ws/install/controller/lib/controller/scheduler.py
+[1.080s] -- Up-to-date: /home/kaymarrr/FourTurtleSim_ws/install/controller/lib/controller/cpp_node_test
+[1.080s] -- Up-to-date: /home/kaymarrr/FourTurtleSim_ws/install/controller/share/controller/via_point
+[1.080s] -- Up-to-date: /home/kaymarrr/FourTurtleSim_ws/install/controller/share/controller/via_point/via_point.yaml
+[1.080s] -- Up-to-date: /home/kaymarrr/FourTurtleSim_ws/install/controller/share/controller/config
+[1.081s] -- Up-to-date: /home/kaymarrr/FourTurtleSim_ws/install/controller/share/controller/config/eater_config.yaml
+[1.081s] -- Up-to-date: /home/kaymarrr/FourTurtleSim_ws/install/controller/share/controller/config/controller_config.yaml
+[1.081s] -- Up-to-date: /home/kaymarrr/FourTurtleSim_ws/install/controller/share/controller/config/spawner_config.yaml
+[1.081s] -- Up-to-date: /home/kaymarrr/FourTurtleSim_ws/install/controller/share/controller/launch
+[1.081s] -- Up-to-date: /home/kaymarrr/FourTurtleSim_ws/install/controller/share/controller/launch/via_point_follower.launch.py
+[1.081s] -- Up-to-date: /home/kaymarrr/FourTurtleSim_ws/install/controller/share/controller/launch/controller_scheduler.launch.py
+[1.081s] -- Up-to-date: /home/kaymarrr/FourTurtleSim_ws/install/controller/share/controller/launch/spawn_turtle.launch.py
+[1.081s] -- Up-to-date: /home/kaymarrr/FourTurtleSim_ws/install/controller/share/controller/launch/multiple_turtle.launch.py
+[1.081s] -- Up-to-date: /home/kaymarrr/FourTurtleSim_ws/install/controller/share/ament_index/resource_index/package_run_dependencies/controller
+[1.082s] -- Up-to-date: /home/kaymarrr/FourTurtleSim_ws/install/controller/share/ament_index/resource_index/parent_prefix_path/controller
+[1.082s] -- Up-to-date: /home/kaymarrr/FourTurtleSim_ws/install/controller/share/controller/environment/ament_prefix_path.sh
+[1.082s] -- Up-to-date: /home/kaymarrr/FourTurtleSim_ws/install/controller/share/controller/environment/ament_prefix_path.dsv
+[1.083s] -- Up-to-date: /home/kaymarrr/FourTurtleSim_ws/install/controller/share/controller/environment/path.sh
+[1.083s] -- Up-to-date: /home/kaymarrr/FourTurtleSim_ws/install/controller/share/controller/environment/path.dsv
+[1.083s] -- Up-to-date: /home/kaymarrr/FourTurtleSim_ws/install/controller/share/controller/local_setup.bash
+[1.083s] -- Up-to-date: /home/kaymarrr/FourTurtleSim_ws/install/controller/share/controller/local_setup.sh
+[1.083s] -- Up-to-date: /home/kaymarrr/FourTurtleSim_ws/install/controller/share/controller/local_setup.zsh
+[1.083s] -- Up-to-date: /home/kaymarrr/FourTurtleSim_ws/install/controller/share/controller/local_setup.dsv
+[1.083s] -- Up-to-date: /home/kaymarrr/FourTurtleSim_ws/install/controller/share/controller/package.dsv
+[1.083s] -- Up-to-date: /home/kaymarrr/FourTurtleSim_ws/install/controller/share/ament_index/resource_index/packages/controller
+[1.083s] -- Up-to-date: /home/kaymarrr/FourTurtleSim_ws/install/controller/share/controller/cmake/controllerConfig.cmake
+[1.083s] -- Up-to-date: /home/kaymarrr/FourTurtleSim_ws/install/controller/share/controller/cmake/controllerConfig-version.cmake
+[1.084s] -- Up-to-date: /home/kaymarrr/FourTurtleSim_ws/install/controller/share/controller/package.xml
+[1.145s] Invoked command in '/home/kaymarrr/FourTurtleSim_ws/build/controller' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/kaymarrr/FourTurtleSim_ws/build/controller
